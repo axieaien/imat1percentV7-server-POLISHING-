@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imat1percentv7.onrender.com/sitemap.xml
